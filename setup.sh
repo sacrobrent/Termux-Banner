@@ -13,7 +13,7 @@ printf "
 
 █░█ ▄▀█ ▀▄▀ ▀▄▀ ▀▄▀ █▀█ █▀█
 █▀█ █▀█ █░█ █░█ █░█ █▄█ █▀▄
-                  EVAN HAXXXOR''
+                  EVAN HAXXXOR
                    Termux Banner"|lolcat
 printf "________________________________
 | Tool: Termux Banner           |
